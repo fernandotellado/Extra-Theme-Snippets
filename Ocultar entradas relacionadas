@@ -1,0 +1,3 @@
+.single .et_extra_other_module.related-posts {
+display: none;
+}
